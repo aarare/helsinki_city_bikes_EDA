@@ -4,4 +4,4 @@ Helsinki City Bikes are shared bicycles available to the public in Helsinki and 
 It can be achieved to the dataset from Kaggle: https://www.kaggle.com/datasets/geometrein/helsinki-city-bikes/data
 
 Since plotly graphs can not seen properly in the ipynb file, I added them here.
-
+![Harita Grafiği](./departure_by_durationhours_plotly.png)
