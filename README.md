@@ -11,7 +11,7 @@ Departure:
 
 Return:
 
-![Harita Grafiği](./return_plotly.png)
+![Harita Grafiği](./return_plotly.PNG)
 
 Departures by Duration Hours:
 
