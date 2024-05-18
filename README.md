@@ -7,11 +7,11 @@ Since plotly graphs can not seen properly in the ipynb file, I added them here.
 
 Departure:
 
-![Harita Grafiği](./departure_plotly_plotly.png)
+![Harita Grafiği](./departure_plotly.png)
 
 Return:
 
-![Harita Grafiği](./return_plotly_plotly.png)
+![Harita Grafiği](./return_plotly.png)
 
 Departures by Duration Hours:
 
